@@ -2,12 +2,12 @@
 
 [![CI Status](https://github.com/<yourname>/CodeStructureGenerator/actions/workflows/test.yml/badge.svg)](https://github.com/<yourname>/CodeStructureGenerator/actions)
 
-一个自动化生成标准项目目录结构的工具，支持多语言模板。
+一个自动化生成标准项目目录结构的工具，支持多语言版本
 
 ## 功能特性
-- 一键生成常用项目模板
+- 一键生成常用项目
 - 支持 Python/Node.js 双版本
-- 可扩展的模板系统
+- 可扩展的模板版本
 
 ## 快速开始
 ```bash
