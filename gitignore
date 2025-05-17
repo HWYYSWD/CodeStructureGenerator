@@ -1,0 +1,8 @@
+```gitignore
+# 通用忽略规则
+.DS_Store
+node_modules/
+__pycache__/
+*.log
+*.tmp
+```
