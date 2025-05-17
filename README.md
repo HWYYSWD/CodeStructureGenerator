@@ -1,0 +1,2 @@
+# CodeStructureGenerator
+一个自动化生成标准项目目录结构的工具，支持多语言模板
